@@ -5,6 +5,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=F7F7F7&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!+🚀🚀" alt="Typing SVG" />
   </a>
 </h1>
+
+<h3 align="left">📚About me:</h3>
+a third-year computer science student at PJATK, deeply passionate about backend development, DevOps, and system architecture. I thrive on tackling complex problems and crafting efficient solutions. Currently, I'm diving into DevOps practices to streamline development and deployment processes. I'm particularly fascinated by system architecture and its pivotal role in building scalable software solutions. Committed to continuous learning and growth in the tech industry.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krokkonrad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="krokkonrad"/></a>
