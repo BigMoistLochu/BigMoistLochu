@@ -5,13 +5,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=F7F7F7&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!+🚀🚀" alt="Typing SVG" />
   </a>
 </h1>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krokkonrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krokkonrad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bigmoistlochu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bigmoistlochu" height="30" width="40" /></a>
-</p>
-
+<a href="https://linkedin.com/in/krokkonrad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="krokkonrad"/></a>
+<a href="tibia.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+<a href="https://www.leetcode.com/bigmoistlochu" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" alt="bigmoistlochu"/></a>
+<a href="tibia.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
