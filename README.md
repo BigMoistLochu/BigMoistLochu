@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="left">📚About me:</h3>
-a third-year computer science student at PJATK, deeply passionate about backend development, DevOps, and system architecture. I thrive on tackling complex problems and crafting efficient solutions. Currently, I'm diving into DevOps practices to streamline development and deployment processes. I'm particularly fascinated by system architecture and its pivotal role in building scalable software solutions. Committed to continuous learning and growth in the tech industry.
+a third-year computer science student, deeply passionate about backend development, DevOps, and system architecture. I thrive on tackling complex problems and crafting efficient solutions. Currently, I'm diving into DevOps practices to streamline development and deployment processes. I'm particularly fascinated by system architecture and its pivotal role in building scalable software solutions. Committed to continuous learning and growth in the tech industry.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
